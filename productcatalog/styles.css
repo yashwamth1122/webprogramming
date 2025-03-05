@@ -1,0 +1,24 @@
+body {
+  background-color: #fefbd8;
+ 
+  
+}
+
+h1 {
+  background-color: #80ced6;
+}
+
+div {
+  background-color: #d5f4e6;
+}
+
+span {
+  background-color: #f18973;
+}
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #11d1ab;
+  color: white;
+  font-size: 30px;
+}
